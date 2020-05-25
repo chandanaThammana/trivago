@@ -34,10 +34,10 @@ const BookNow = () => {
                 <div className="col-3 float-left  shadow ml-4 mt-2 pt-4" style={{height:"220px"}}>
                     <h5>Payment Methods</h5><hr />
                     <label className="form-check-label" for="check1">
-                         <input type="radio"  id="check1" name="option1" value="something"  />  Debit Card
+                         <input type="radio"  id="check1" name="option" value="something"  />  Debit Card
                     </label><br />
                     <label className="form-check-label mt-3" for="check2">
-                         <input type="radio"  id="check2" name="option2" value="something"  />  Credit Card
+                         <input type="radio"  id="check2" name="option" value="something"  />  Credit Card
                     </label><br />
                     <button className="btn btn-info rounded-0 mt-2 float-right">Pay</button>
                 </div>
