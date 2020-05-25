@@ -30,7 +30,7 @@ return(
 					</div>
                     <div class="input-group form-group">
 						
-						<input type="password" class="form-control" placeholder="Conform password"/>
+						<input type="password" class="form-control" placeholder="Confirm password"/>
 					</div>
                     <div class="input-group form-group mt-2">
 						
